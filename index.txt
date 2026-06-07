@@ -3,7 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ECP99SEF9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7ECP99SEF9');
+</script>
+
     <!-- 【SEO 標籤與內容埋設規格】 -->
     <title>苗栗公館農村社區小舖 | 無添加紅棗乾與健康伴手禮推薦</title>
     <meta name="description" content="尋找過年長輩送禮推薦？苗栗公館農村社區小舖提供無添加紅棗乾、天然減糖福菜。在地小農直送，是您健康無負擔的伴手禮首選。">
