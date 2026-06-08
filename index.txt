@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMXWHD0J43"></script>
 <script>
@@ -12,6 +10,8 @@
 
   gtag('config', 'G-YMXWHD0J43');
 </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
 
     <!-- 【SEO 標籤與內容埋設規格】 -->
     <title>苗栗公館農村社區小舖 | 無添加紅棗乾與健康伴手禮推薦</title>
